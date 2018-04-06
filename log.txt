@@ -1,0 +1,79 @@
+
+
+
+
+liri seeTweets"Tweet History: Thu Apr 05 23:14:45 +0000 2018 / this tweet should be logged with the arguments... again
+
+Tweet History: Thu Apr 05 23:11:44 +0000 2018 / This tweet should be logged with the arguements too..
+
+Tweet History: Thu Apr 05 23:00:43 +0000 2018 / This tweet should be logged!
+
+Tweet History: Thu Apr 05 23:03:25 +0000 2018 / This tweet should be logged?
+
+Tweet History: Wed Apr 04 19:14:17 +0000 2018 / and yet another test tweet
+
+Tweet History: Wed Apr 04 19:05:45 +0000 2018 / I posted this tweet with a function!
+
+Tweet History: Wed Apr 04 19:06:52 +0000 2018 / I posted another tweet with a function....
+
+Tweet History: Wed Apr 04 16:45:13 +0000 2018 / This is my liri node tweet! WooHoo!
+
+Tweet History: Wed Apr 04 19:43:51 +0000 2018 / Final tweet test
+
+Tweet History: Wed Apr 04 16:49:37 +0000 2018 / Now I just need 16 more tweets..... hmmm....
+
+Tweet History: Wed Apr 04 16:16:05 +0000 2018 / I Love Twitter
+
+Tweet History: Tue Apr 03 23:15:09 +0000 2018 / The Wilderness is Wonderful...
+
+Liri Command: liri seeTweets"
+Tweet History: Thu Apr 05 23:14:45 +0000 2018 / this tweet should be logged with the arguments... again
+
+Tweet History: Thu Apr 05 23:11:44 +0000 2018 / This tweet should be logged with the arguements too..
+
+Tweet History: Thu Apr 05 23:03:25 +0000 2018 / This tweet should be logged?
+
+Tweet History: Thu Apr 05 23:00:43 +0000 2018 / This tweet should be logged!
+
+Tweet History: Wed Apr 04 19:43:51 +0000 2018 / Final tweet test
+
+Tweet History: Wed Apr 04 19:14:17 +0000 2018 / and yet another test tweet
+
+Tweet History: Wed Apr 04 19:06:52 +0000 2018 / I posted another tweet with a function....
+
+Tweet History: Wed Apr 04 16:45:13 +0000 2018 / This is my liri node tweet! WooHoo!
+
+Tweet History: Wed Apr 04 19:05:45 +0000 2018 / I posted this tweet with a function!
+
+Tweet History: Wed Apr 04 16:16:05 +0000 2018 / I Love Twitter
+
+Tweet History: Wed Apr 04 16:49:37 +0000 2018 / Now I just need 16 more tweets..... hmmm....
+
+Tweet History: Tue Apr 03 23:15:09 +0000 2018 / The Wilderness is Wonderful...
+
+Liri Command: liri seeTweets"
+ --------------------
+ Tweet History: Thu Apr 05 23:14:45 +0000 2018 / this tweet should be logged with the arguments... again
+
+Tweet History: Thu Apr 05 23:03:25 +0000 2018 / This tweet should be logged?
+
+Tweet History: Thu Apr 05 23:11:44 +0000 2018 / This tweet should be logged with the arguements too..
+
+Tweet History: Thu Apr 05 23:00:43 +0000 2018 / This tweet should be logged!
+
+Tweet History: Wed Apr 04 19:14:17 +0000 2018 / and yet another test tweet
+
+Tweet History: Wed Apr 04 19:43:51 +0000 2018 / Final tweet test
+
+Tweet History: Wed Apr 04 19:05:45 +0000 2018 / I posted this tweet with a function!
+
+Tweet History: Wed Apr 04 16:49:37 +0000 2018 / Now I just need 16 more tweets..... hmmm....
+
+Tweet History: Wed Apr 04 19:06:52 +0000 2018 / I posted another tweet with a function....
+
+Tweet History: Wed Apr 04 16:16:05 +0000 2018 / I Love Twitter
+
+Tweet History: Wed Apr 04 16:45:13 +0000 2018 / This is my liri node tweet! WooHoo!
+
+Tweet History: Tue Apr 03 23:15:09 +0000 2018 / The Wilderness is Wonderful...
+
