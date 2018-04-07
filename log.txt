@@ -77,3 +77,6 @@ Tweet History: Wed Apr 04 16:45:13 +0000 2018 / This is my liri node tweet! WooH
 
 Tweet History: Tue Apr 03 23:15:09 +0000 2018 / The Wilderness is Wonderful...
 
+Liri Command: liri movieThis"
+ ------------------------------
+ 
